@@ -1,0 +1,2 @@
+# imx8-Linux-dev
+Linux kernel and device drivers. Some features of a chip or an evaluation board may not be enabled by a Linux BSP. Please review the features listed in the “Devices Support” section of each Linux BSP information page. Each Linux BSP link provides detailed information on the version of the kernel, glibc, gcc, etc., as well as information about which applications and services are included within a specific BSP.
